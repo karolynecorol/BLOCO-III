@@ -1,0 +1,14 @@
+<svg id="hello-boasvindas" xmlns="http://www.w3.org/2000/svg" width="720" height="940" viewBox="0 0 720 940">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #707070;
+        font-size: 400px;
+        font-family: Poppins-Black, Poppins;
+        font-weight: 800;
+      }
+    </style>
+  </defs>
+  <text id="he_llo" data-name="he
+llo" class="cls-1" transform="translate(0 420)"><tspan x="0" y="0">HE</tspan><tspan x="0" y="380">LLO</tspan></text>
+</svg>

@@ -1,0 +1,10 @@
+#img-bg{
+  background-image: url(../../assets/notebook.jpeg);
+
+  text-align: center;
+
+  min-height: 695px; background-position: center;
+
+  background-repeat: no-repeat;
+  background-size: cover;
+}

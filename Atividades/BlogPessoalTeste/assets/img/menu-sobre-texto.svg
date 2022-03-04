@@ -1,0 +1,13 @@
+<svg id="menu-sobre-texto" xmlns="http://www.w3.org/2000/svg" width="256" height="112" viewBox="0 0 256 112">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f8f8f8;
+        font-size: 80px;
+        font-family: Poppins-Bold, Poppins;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="sobre" class="cls-1"><tspan x="-116.72" y="84">sobre</tspan></text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="104" viewBox="0 0 56 104">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 40px;
+        font-family: Poppins-LightItalic, Poppins;
+        font-weight: 300;
+        font-style: italic;
+      }
+    </style>
+  </defs>
+  <g id="scroll-texto" transform="translate(0 1)">
+    <text id="scroll" class="cls-1" transform="translate(42 103) rotate(-90)"><tspan x="0" y="0">scroll</tspan></text>
+  </g>
+</svg>

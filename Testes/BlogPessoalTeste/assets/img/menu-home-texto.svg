@@ -1,0 +1,13 @@
+<svg id="menu-home-texto" xmlns="http://www.w3.org/2000/svg" width="259" height="112" viewBox="0 0 259 112">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f8f8f8;
+        font-size: 80px;
+        font-family: Poppins-Bold, Poppins;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="home" class="cls-1"><tspan x="-119.44" y="84">home</tspan></text>
+</svg>
